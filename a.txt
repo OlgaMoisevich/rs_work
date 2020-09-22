@@ -1,2 +1,3 @@
 Some text for a.text
-
+Changes from second;								Changes from second
+				
